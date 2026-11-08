@@ -2,19 +2,19 @@
 
 My solutions to LeetCode problems using Java, focused on improving problem-solving skills and mastering Data Structures and Algorithms.
 
-## Objectives
+## 🎯 Objectives
 
-- Improve problem-solving skills.
+- Improve logical thinking and problem-solving skills.
 - Strengthen Java programming fundamentals.
-- Practice Data Structures and Algorithms.
+- Learn and practice Data Structures and Algorithms.
 - Develop efficient and optimized solutions.
 - Prepare for technical coding interviews.
 
-## Language
+## 💻 Language
 
 - Java
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 LeetCode-Java/
@@ -22,14 +22,14 @@ LeetCode-Java/
 ├── Templates/
 │   └── Problem-Template.md
 ├── Easy/
-│   └── Two-sum/
+│   └── Two-Sum/
 │       ├── README.md
 │       └── Solution.java
 ├── Medium/
 └── Hard/
 ```
 
-## Progress
+## 📊 Progress
 
 | Difficulty | Solved |
 |------------|--------|
@@ -38,20 +38,20 @@ LeetCode-Java/
 | Hard       | 0      |
 | **Total**  | **1**  |
 
-## Topics Covered
+## 📚 Topics Covered
 
-- Arrays
-- Strings
+- Arrays and Strings
 - HashMap and HashSet
 - Sorting Algorithms
 - Two Pointers
 - Binary Search
 - Stacks and Queues
+- Data Structures and Algorithms
 
-## About This Repository
+## 🚀 About This Repository
 
 This repository documents my journey in learning Data Structures and Algorithms through LeetCode challenges.
 
-Each solution represents an opportunity to improve my coding skills, explore different approaches, and develop more efficient solutions.
+Each solution represents an opportunity to improve my coding skills, understand different approaches, and develop more efficient solutions.
 
 **Consistency, practice, and continuous improvement.**
